@@ -793,7 +793,7 @@ video {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-@media(min-width: 1020px) {
+@media (min-width: 1020px) {
   .bg-hero {
     width: 2000px;
     height: 300px;
